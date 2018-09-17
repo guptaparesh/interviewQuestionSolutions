@@ -1,4 +1,4 @@
-# Project Title
+# Interview preparations
 
 Repo to collect all the work I am doing for interviewing.
 
