@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Problems.LinkedLists</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\..\..\..\..\..\ngw\coding\LinkedLists\LinkedList.cs" Link="LinkedList.cs" />
+  </ItemGroup>
+
+</Project>
