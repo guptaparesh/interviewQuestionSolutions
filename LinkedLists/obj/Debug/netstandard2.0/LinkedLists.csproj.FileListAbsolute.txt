@@ -1,9 +1,0 @@
-C:\Users\gupta\source\repos\Problems\LinkedLists\bin\Debug\netstandard2.0\LinkedLists.deps.json
-C:\Users\gupta\source\repos\Problems\LinkedLists\bin\Debug\netstandard2.0\LinkedLists.dll
-C:\Users\gupta\source\repos\Problems\LinkedLists\bin\Debug\netstandard2.0\LinkedLists.pdb
-C:\Users\gupta\source\repos\Problems\LinkedLists\obj\Debug\netstandard2.0\LinkedLists.csprojAssemblyReference.cache
-C:\Users\gupta\source\repos\Problems\LinkedLists\obj\Debug\netstandard2.0\LinkedLists.csproj.CoreCompileInputs.cache
-C:\Users\gupta\source\repos\Problems\LinkedLists\obj\Debug\netstandard2.0\LinkedLists.AssemblyInfoInputs.cache
-C:\Users\gupta\source\repos\Problems\LinkedLists\obj\Debug\netstandard2.0\LinkedLists.AssemblyInfo.cs
-C:\Users\gupta\source\repos\Problems\LinkedLists\obj\Debug\netstandard2.0\LinkedLists.dll
-C:\Users\gupta\source\repos\Problems\LinkedLists\obj\Debug\netstandard2.0\LinkedLists.pdb

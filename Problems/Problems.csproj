@@ -47,6 +47,7 @@
     <Compile Include="DynamicAndRecurive\DeletionDistance.cs" />
     <Compile Include="DynamicAndRecurive\PowerSet.cs" />
     <Compile Include="Graphs\Graphs.cs" />
+    <Compile Include="Misc\FindBusiest.cs" />
     <Compile Include="Misc\MaxSubsetSum.cs" />
     <Compile Include="Misc\ShuffleCards.cs" />
     <Compile Include="Misc\SmallestNonNegativeNumber.cs" />

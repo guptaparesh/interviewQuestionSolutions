@@ -15,6 +15,7 @@ namespace Problems
     {
         public static void Main(string[] args)
         {
+            FindBusiest.Test();
             DeletionDistance.Test();
             ShuffleCards.Test();
             PowerSet.Test();
