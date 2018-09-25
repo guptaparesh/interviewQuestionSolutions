@@ -15,11 +15,17 @@ namespace Problems
     {
         public static void Main(string[] args)
         {
+            MaxLoot.Test();
+            return;        
+
+            PerfectSquares.Test();
+            CountTriplets.Test();
+            TrianglePath.Test();
             FindBusiest.Test();
             DeletionDistance.Test();
             ShuffleCards.Test();
             PowerSet.Test();
-            SmallestNonNegativeNumber.Test();
+            //SmallestNonNegativeNumber.Test();
             MaxSubsetSum.Test();
             Graph.Test();
             RankFromStream.Test();
