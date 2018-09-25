@@ -45,12 +45,15 @@
   <ItemGroup>
     <Compile Include="Arrays\RemoveElementTest.cs" />
     <Compile Include="DynamicAndRecurive\DeletionDistance.cs" />
+    <Compile Include="DynamicAndRecurive\PerfectSquares.cs" />
     <Compile Include="DynamicAndRecurive\PowerSet.cs" />
+    <Compile Include="DynamicAndRecurive\TrianglePath.cs" />
     <Compile Include="Graphs\Graphs.cs" />
     <Compile Include="Misc\FindBusiest.cs" />
     <Compile Include="Misc\MaxSubsetSum.cs" />
+    <Compile Include="DynamicAndRecurive\MaxLoot.cs" />
     <Compile Include="Misc\ShuffleCards.cs" />
-    <Compile Include="Misc\SmallestNonNegativeNumber.cs" />
+    <Compile Include="Misc\CountTriplets.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Search\RankFromStream.cs" />
     <Compile Include="Search\SearchInsert.cs" />
